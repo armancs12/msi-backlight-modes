@@ -1,0 +1,12 @@
+{
+  "name": "msi-backlight-modes",
+  "version": "1.0.0",
+  "description": "A CLI tool to set MSI keyboard backlight colors.",
+  "author": "Serhat S.",
+  "main": "main.js",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js"
+  }
+}
