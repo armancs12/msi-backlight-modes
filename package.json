@@ -8,5 +8,9 @@
   "license": "MIT",
   "scripts": {
     "start": "node main.js"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "msi-keyboard": "^0.7.0"
   }
 }
